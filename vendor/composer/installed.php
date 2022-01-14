@@ -1,7 +1,7 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'v1.0',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'v2.0',
+        'version' => '2.0.0.0',
         'type' => 'package',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,8 +11,8 @@
     ),
     'versions' => array(
         'hkinahan/version2' => array(
-            'pretty_version' => 'v1.0',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'v2.0',
+            'version' => '2.0.0.0',
             'type' => 'package',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
