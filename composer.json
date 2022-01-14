@@ -1,0 +1,8 @@
+{
+    "name": "hkinahan/version2",
+    "description": "Version 2 of index.html",
+    "type": "package",
+    "license": "MIT",
+    "version": "v1.0",
+    "require": {}
+}
